@@ -1,24 +1,24 @@
-👋 Hi, I’m Giriraj Madhumilton  
-🎓 **Master’s Student in Data Science** | 🎸 **Guitar Enthusiast** | 📊 **ML & Power BI Practitioner**  
+# 👋 Hi, I’m **Giriraj Madhumilton**  
+🎓 **Master’s Student in Data Science** | 🎸 **Guitarist** | 📊 **ML & Power BI Enthusiast**  
 
-## 👀 Interests  
-- Machine Learning & Statistics 📈  
-- Data Visualization & Business Intelligence 📊  
-- Music & Guitar Playing 🎶  
+## About Me  
+I am currently pursuing my **Master’s in Data Science**, with a strong interest in **Machine Learning, Statistics, and Business Intelligence**. I have hands-on experience in **ML model development, statistical analysis, and data visualization** using **Power BI**.  
 
-## 🌱 Currently Learning  
-- Advanced Machine Learning Algorithms 🤖  
-- Deep Learning & Neural Networks 🧠  
-- Power BI & Tableau for Data Visualization 📊  
+Beyond data, I am also a passionate **guitar player**, blending creativity with analytical thinking.  
 
-## 💞️ Looking to Collaborate On  
-- Data Science & ML Projects 🚀  
-- Open-Source Contributions 💻  
-- Data-Driven Business Solutions  
+## 🔹 Skills & Expertise  
+- **Machine Learning & Statistics** (Predictive Modeling, Regression, Classification)  
+- **Data Visualization** (Power BI, Tableau)  
+- **Programming & Tools** (Python, SQL, Pandas, NumPy, Scikit-learn)  
+- **Business Intelligence** (Data-Driven Decision Making)  
 
-## 📫 How to Reach Me  
-- 📧 **Email**: giriraj2472002@gmail.com  
-- 🔗 **LinkedIn**: [Giriraj Madhumilton](https://www.linkedin.com/in/giriraj-madhumilton-6a0991227)  
+## 🚀 Projects  
+- **ML & Statistics:** Built predictive models for various real-world datasets.  
+- **Power BI Dashboards:** Designed interactive reports for business insights.  
 
-## ⚡ Fun Fact  
-- I blend **data science & music**—analyzing trends by day, jamming on my guitar by night! 🎸📊  
+## 📫 Contact Me  
+📧 **Email:** giriraj2472002@gmail.com  
+🔗 **LinkedIn:** [Giriraj Madhumilton](https://www.linkedin.com/in/giriraj-madhumilton-6a0991227)  
+
+## 🎸 Fun Fact  
+When I'm not working with data, you’ll find me playing my guitar and exploring music theory! 🎶  

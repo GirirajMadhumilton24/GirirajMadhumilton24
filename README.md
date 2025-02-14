@@ -8,7 +8,7 @@ Beyond data, I am also a passionate **guitar player**, blending creativity with 
 
 ## 🔹 Skills & Expertise  
 - **Machine Learning & Statistics** (Predictive Modeling, Regression, Classification)  
-- **Data Visualization** (Power BI, Tableau)  
+- **Data Visualization** (Power BI)  
 - **Programming & Tools** (Python, SQL, Pandas, NumPy, Scikit-learn)  
 - **Business Intelligence** (Data-Driven Decision Making)  
 

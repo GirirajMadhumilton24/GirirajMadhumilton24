@@ -91,4 +91,4 @@ When I’m not working with data, I’m usually exploring guitar scales, writing
 
 ## 📊 GitHub Stats  
 
-![Giriraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirirajMadhumilton24&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=GirirajMadhumilton24&theme=radical&hide_border=true)

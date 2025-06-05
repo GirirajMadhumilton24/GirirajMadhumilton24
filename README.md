@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="140">
+  <a href="https://www.mjvinnovation.com/blog/steps-of-data-science-to-apply-in-your-company/" target="_blank">
+    📖 Check out this Data Science process article!
+  </a>
 </p>
+
 
 # 👋 Hi there, I’m **Giriraj Madhumilton**
 

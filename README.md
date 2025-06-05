@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="200">
+</p>
+
 # 👋 Hi there, I’m **Giriraj Madhumilton**
 
 🎓 **Master’s Student in Data Science** | 📊 **Data Analyst** | 🤖 **Machine Learning & Business Intelligence Enthusiast**

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="200">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100%" height="180">
 </p>
 
 # 👋 Hi there, I’m **Giriraj Madhumilton**
